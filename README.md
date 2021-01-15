@@ -2,6 +2,14 @@
 
 In questo elenco cerco di elencare man mano che mi vengono resi noti i servizi informativi online forniti dallo Stato italiano ai cittadini. Accetto pull request per completare l'elenco.
 
+## Anagrafe e servizi anagrafici
+
+| Nome e indirizzo                     | Gestore                | Descrizione                                                  | SPID |
+| ------------------------------------ | ---------------------- | ------------------------------------------------------------ | ---- |
+| [ANPR](https://www.anpr.interno.it/) | Ministero dell'Interno | Anagrafe Nazionale della Popolazione Residente. Permette la consultazione dei propri dati anagrafici e l'ottenimento di certificati anagrafici per i residenti nei comuni che fanno parte del sistema unificato. | ✓    |
+
+
+
 ## Fisco e finanze
 
 | Nome e indirizzo                                             | Gestore                                                 | Descrizione | SPID |
