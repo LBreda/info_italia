@@ -1,4 +1,4 @@
-# Sistemi informativi statali per i cittadini italiani
+# Sistemi informativi della Pubblica Amministrazione per i cittadini italiani
 
 In questo elenco cerco di elencare man mano che mi vengono resi noti i servizi informativi online forniti dallo Stato italiano ai cittadini. Accetto pull request per completare l'elenco.
 
