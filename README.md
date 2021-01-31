@@ -7,6 +7,7 @@ In questo elenco cerco di elencare man mano che mi vengono resi noti i servizi i
 | Nome e indirizzo                     | Gestore                | Descrizione                                                  | SPID |
 | ------------------------------------ | ---------------------- | ------------------------------------------------------------ | ---- |
 | [ANPR](https://www.anpr.interno.it/) | Ministero dell'Interno | Anagrafe Nazionale della Popolazione Residente. Permette la consultazione dei propri dati anagrafici e l'ottenimento di certificati anagrafici per i residenti nei comuni che fanno parte del sistema unificato. | ✓    |
+| [Prenotazione Carta di Identità Elettronica](https://www.prenotazionicie.interno.gov.it/) | Ministero dell'Interno | Sistema di prenotazione della Carta di Identità elettronica, per i comuni che permettono di ottenerla. | ✓    |
 
 
 
