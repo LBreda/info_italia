@@ -39,6 +39,12 @@ In questo elenco cerco di elencare man mano che mi vengono resi noti i servizi i
 
 ## Sanità
 
+### Nazionale
+
+| Nome e indirizzo                                         | Gestore       | Descrizione                                                  | SPID |
+| -------------------------------------------------------- | ------------- | ------------------------------------------------------------ | ---- |
+| [Certificazione verde COVID-19](https://www.dgc.gov.it/) | Regione Lazio | Sistema per otteenre il "green pass" per viaggiare nella UE a seguito di vaccino COVID-19, tampone COVID-19 negativo o guarigione dalla malattia. | ✓    |
+
 ### Regione Lazio
 
 | Nome e indirizzo                           | Gestore       | Descrizione                                                  | SPID |
